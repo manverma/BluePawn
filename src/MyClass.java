@@ -4,10 +4,12 @@ public class MyClass
 {
     public static void main (String[] args)
     {
-        System.out.println("Hello World!");
-        System.out.println("Goodbye World!");
-        System.out.println("Never mind World!");
+        System.out.println("Namaste World!");
     }
     
+    public String sayHello() {
+    	
+    	return "Namaste World!";
+    }
     
 }
