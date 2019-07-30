@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Namaste World! 
+PURPOSE OF PROJECT: Tech Manshu Java
+VERSION or DATE: 7/30/2019
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Manshu
 USER INSTRUCTIONS:
